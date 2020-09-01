@@ -1,5 +1,4 @@
 <?php
-
+$ver = 1.0;
 $myhostname = gethostname();
-
-print "$myhostname | Ver: 4.0 \n";
+print "HOSTNAME: $myhostname | Ver: $ver\n";
