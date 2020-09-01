@@ -2,5 +2,5 @@
 
 $myhostname = gethostname();
 
-print "Ver: 1.0\n<BR>";
+print "Ver: 2.0\n<BR>";
 print "$myhostname\n";
