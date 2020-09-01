@@ -2,4 +2,4 @@
 
 $myhostname = gethostname();
 
-print "$myhostname | Ver: 3.0 \n";
+print "$myhostname | Ver: 4.0 \n";
