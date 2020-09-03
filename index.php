@@ -1,6 +1,6 @@
 <?php
 
-$ver = '6.0';
+$ver = '7.0';
 $myhostname = gethostname();
 
 print "HOSTNAME: <b>$myhostname</b> | VER: <b>$ver</b>\n";
