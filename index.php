@@ -31,6 +31,7 @@ $myhostname = gethostname();
         <td width=50>&nbsp;</td>
         <td align=center><font size="+3" face="arial" color="black">
          Hostname: <?php print "$myhostname"; ?>
+
          </font></b></td>
         <td width=50>&nbsp;</td>
       </tr>
