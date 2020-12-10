@@ -14,6 +14,7 @@ $myhostname = gethostname();
         <td align=center><b><font face="arial" color="white">-={ My Custom PHP App }=-</font></b></td>
         <td align=right width=100><font size="3" face="arial" color="white">
           Ver: <?php print "$ver"; ?>
+
          </font></td>
         <td width=50>&nbsp;</td>
       </tr>
