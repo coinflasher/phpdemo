@@ -7,7 +7,7 @@ $myhostname = gethostname();
 <TABLE width=100% cellspacing=0 cellpadding=0>
 <TR>
   <TD>
-    <table width=100% bgcolor=black>
+    <table width=100% bgcolor=black border=1>
       <tr>
         <td width=50>&nbsp;</td>
         <td align=left width=100><img src=rhlogo.png></td>
