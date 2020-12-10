@@ -23,7 +23,7 @@ $bgcolor = getenv('BGCOLOR');
 </TR>
 </TABLE>
 <BR><BR><BR>
-<TABLE width=100% cellspacing=0 cellpadding=0>
+<TABLE bgcolor=<?php print "$bgcolor";?> width=100% cellspacing=0 cellpadding=0>
 <TR>
   <TD>
     <table width=100% bgcolor=white>
