@@ -2,7 +2,6 @@
 $ver = '3.5';
 $myhostname = gethostname();
 
-print "HOSTNAME: $myhostname | VER: $ver\n";
 ?>
 
 <TABLE width=900 cellspacing=0 cellpadding=0>
@@ -10,7 +9,11 @@ print "HOSTNAME: $myhostname | VER: $ver\n";
   <TD>
     <table width=900 bgcolor=black>
       <tr>
-        <td><font color="white">Version</font></td>
+        <td width=100>&nbsp;</td>
+        <td align=left><img src=rhlogo.png></td>
+        <td align=center><b><font face="arial" color="white">My Custom PHP App</font></b></td>
+        <td align=right><font face="arial" color="white">Ver: <?php print "$ver"; ?></font></td>
+        <td width=100>&nbsp;</td>
       </tr>
     </table>
   </TD>
