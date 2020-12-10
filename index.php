@@ -1,7 +1,7 @@
 <?php
 $ver = '3.5';
 $myhostname = gethostname();
-
+$bgcolor = getenv('BGCOLOR');
 ?>
 
 <TABLE width=100% cellspacing=0 cellpadding=0>
