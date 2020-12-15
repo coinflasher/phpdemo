@@ -1,7 +1,6 @@
 <?php
 $ver = '2.0';
 $myhostname = gethostname();
-$bgcolor = getenv('BGCOLOR');
 ?>
 
 <TABLE width=100% cellspacing=0 cellpadding=0>
@@ -23,7 +22,7 @@ $bgcolor = getenv('BGCOLOR');
 </TR>
 </TABLE>
 <BR><BR><BR>
-<TABLE width=100% cellspacing=0 cellpadding=0 BGCOLOR="<?php print "$bgcolor";?>">
+<TABLE width=100% cellspacing=0 cellpadding=0>
 <TR>
   <TD>
     <table width=100%>
