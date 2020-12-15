@@ -7,7 +7,7 @@ $bgcolor = getenv('BGCOLOR');
 <TABLE width=100% cellspacing=0 cellpadding=0>
 <TR>
   <TD>
-    <table width=100% bgcolor=black border=0>
+    <table width=100% bgcolor="#2d1c46" border=0>
       <tr>
         <td width=50>&nbsp;</td>
         <td align=left width=100><img src=truistlogo.jpg></td>
