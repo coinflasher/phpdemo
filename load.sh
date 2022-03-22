@@ -1,4 +1,4 @@
 #!/bin/bash
 
-SEC=5
+SEC=10
 timeout ${SEC}s sha1sum /dev/zero &
